@@ -1,4 +1,14 @@
 ### Hi there 👋
+\
+My name is Sandor, I'm a self taught coding enthusiast.\
+I'm currently working on automating some of my daily tasks with Pyhton / Selenium
+
+During my journey I've built:
+- Label Printer  ( MS Excel, VBA, MS Access )
+- Tabel Scrapper ( MS Excel, Python, Selenium )
+- Stock Investigtion Spreadsheet ( MS Excel, VBA )
+ 
+  
 
 <!--
 **SanDPyth/SanDPyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
